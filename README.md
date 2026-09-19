@@ -1,4 +1,4 @@
-[Untitled1 (1).ipynb](https://github.com/user-attachments/files/32413815/Untitled1.1.ipynb)# Kigyoubunseki15sya
+# Kigyoubunseki15sya
 ・2023年度 IT業界主要15社の財務・収益分析
 
 ・概要
