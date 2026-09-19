@@ -1,4 +1,4 @@
-# Kigyoubunseki15sya
+[Untitled1 (1).ipynb](https://github.com/user-attachments/files/32413815/Untitled1.1.ipynb)# Kigyoubunseki15sya
 ・2023年度 IT業界主要15社の財務・収益分析
 
 ・概要
@@ -16,5 +16,5 @@
 営業利益率 約63.3%、ROA 約13.2%、自己資本比率 約91.3%を記録。
 自社開発ERPの直接販売・直接サポート体制による高収益・高安全性の構造が数値からも明確に裏付けられました。
 
-ファイル構成
-- `分析コードのファイル名.ipynb`: 財務データの加工・可視化を行なったPythonコードおよびグラフと考察
+・ファイル構成
+IT_company_analysis_2023.ipynb: 財務データの加工・可視化を行なったPythonコードおよびグラフと考察
